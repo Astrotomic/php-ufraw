@@ -1,0 +1,20 @@
+{
+    "name": "astrotomic/php-ufraw",
+    "description": "The Laravel Framework.",
+    "keywords": [],
+    "license": "MIT",
+    "type": "library",
+    "require": {
+        "symfony/process": "^3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Astrotomic\\Ufraw\\": "src/"
+        }
+    },
+    "config": {
+        "preferred-install": "dist",
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}
