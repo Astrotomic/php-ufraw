@@ -1,6 +1,6 @@
 {
     "name": "astrotomic/php-ufraw",
-    "description": "The Laravel Framework.",
+    "description": "OOP wrapper for ufraw in php.",
     "keywords": [],
     "license": "MIT",
     "type": "library",
